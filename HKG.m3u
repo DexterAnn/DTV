@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,31 港台電視
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1,32 港台電視
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,76 香港國際財經台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1,77 香港開電視
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1,81 翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1,82 J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1,83 無線新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1,84 Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1,84b Pearl Cantonese
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1,85 無線財經資訊台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1,96 ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,99 ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,CCTV 1
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
