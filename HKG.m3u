@@ -7,6 +7,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1,77 香港開電視
 https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1,77 香港開電視 Optional
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,81 翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1,82 J2
