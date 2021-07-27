@@ -27,3 +27,5 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,CCTV 1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1,CCTV 1 Optional
+http://cm.wshls.homecdn.com/live/4387.m3u8
