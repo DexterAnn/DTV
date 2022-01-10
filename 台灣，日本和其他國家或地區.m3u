@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="台灣",TVBS亞洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 group-title="台灣",中天新聞
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1 group-title="台灣",東森新聞
+http://iptv.tvfix.org/hls/dsxw.m3u8
+#EXTINF:-1 group-title="台灣",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="台灣",民視台灣台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="台灣",民視旅游台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 group-title="台灣",民視第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="台灣",民視新聞台
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="台灣",民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 group-title="台灣",民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 group-title="台灣",好消息GOODTV一台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV二台
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV幸福家庭
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV神樂經典
+http://live.streamingfast.net/osmflivech4.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV音樂河
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV光明神
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV神愛世人
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV上帝聖經
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV人間道
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV神鬼論
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV聖經門徒
+http://live.streamingfast.net/osmflivech11.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV愛+好醫生
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV少兒
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOODTV美食旅遊
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHK綜合
+http://iptv.tvfix.org/hls/nhkg.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHK綜合(第2聲道)
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHK教育
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHK教育(第2聲道)
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHKWORLDPremium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHKWORLD
+http://iptv.tvfix.org/hls/nhkworld.m3u8
+#EXTINF:-1 group-title="日本：NHK",NHKWORLD(中文字幕)
+http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+#EXTINF:-1 group-title="其他",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 group-title="其他",瞬間看地球
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 group-title="其他",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 group-title="其他",Animax(第2聲道)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 group-title="其他",HandsUpChannel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 group-title="其他",HandsUpChannel(第2聲道)
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1 group-title="其他",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 group-title="其他",Thrill(第2聲道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 group-title="其他",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 group-title="其他",動物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 group-title="其他",動物星球(第2聲道)
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 group-title="其他",LoveNature4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 group-title="其他",LoveNature4K(第2聲道)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 group-title="其他",國家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="其他",ChannelV
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="其他",星空衛視
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 group-title="其他",StarSports
+http://iptv.tvfix.org/hls/starsports.m3u8
