@@ -73,7 +73,7 @@ http://iptv.tvfix.org/hls/viutv6.m3u8
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 group-title="奇妙電視",77-香港開電視-1
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1,group-title="奇妙電視",77-香港開電視-2
+#EXTINF:-1 group-title="奇妙電視",77-香港開電視-2
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="鳳凰",鳳凰資訊
 http://iptv.tvfix.org/hls/fhzx.m3u8
