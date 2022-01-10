@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV4K
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV1
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV1HK
+http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV2
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV3
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV4
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV5
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV5+
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV6
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV7
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV8
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV9
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV10
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV11
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV12
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV13
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV14
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV15
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV16
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV17
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN紀錄
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN法語
+http://iptv.tvfix.org/hls/cgtnfhd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN俄語
+http://iptv.tvfix.org/hls/cgtnehd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN阿拉伯語
+http://iptv.tvfix.org/hls/cgtnahd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CGTN西班牙語
+http://iptv.tvfix.org/hls/cgtnxhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",北京
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",湖南
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",浙江
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",江蘇
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",東方
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",安徽
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",黑龍江
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",遼寧
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",深圳
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",廣東
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",天津
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",湖北
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",山東
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",重慶
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",金鷹
+http://iptv.tvfix.org/hls/gedocu.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",福建東南
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",四川
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",河北
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",江西
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",河南
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",廣西
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",吉林
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",中國教育電視台
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",海南
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1 group-title="中國：衛視（高清）",貴州
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京文藝
+http://iptv.tvfix.org/hls/brtv2hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京科教
+http://iptv.tvfix.org/hls/brtv3hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京影視
+http://iptv.tvfix.org/hls/brtv4hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京財經
+http://iptv.tvfix.org/hls/brtv5hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京生活
+http://iptv.tvfix.org/hls/brtv7hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京青年
+http://iptv.tvfix.org/hls/brtv8hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京新聞
+http://iptv.tvfix.org/hls/brtv9hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京卡酷少兒
+http://iptv.tvfix.org/hls/brtv10hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",北京冬奧紀實
+http://iptv.tvfix.org/hls/brtv11hd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",上海新聞綜合
+http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",上海東方影視
+http://iptv.tvfix.org/hls/shdfyshd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",上海都市頻道
+http://iptv.tvfix.org/hls/shdspdhd.m3u8
+#EXTINF:-1 group-title="中國：北京和上海",上海外語頻道
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
+#EXTINF:-1 group-title="中國：其他",清華電視台
+http://iptv.tvfix.org/hls/tsinghuatv.m3u8
+#EXTINF:-1 group-title="中國：其他",五星體育高清
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 group-title="中國：其他",極速汽車高清
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1 group-title="中國：其他",勁爆體育高清
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 group-title="中國：其他",新視覺高清
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1 group-title="中國：其他",魅力足球高清
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1 group-title="中國：其他",遊戲風雲高清
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1 group-title="中國：其他",全紀實高清
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 group-title="中國：其他",紀實人文高清
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1 group-title="中國：其他",CHC高清電影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 group-title="中國：其他",CHC家庭影院
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 group-title="中國：其他",CHC動作電影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 group-title="中國：其他",哈哈炫動高清
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
+#EXTINF:-1 group-title="中國：其他",金鷹卡通
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:-1 group-title="中國：其他",優漫卡通
+http://iptv.tvfix.org/hls/ymkttv.m3u8
+#EXTINF:-1 group-title="中國：其他",新動漫
+http://iptv.tvfix.org/hls/xdmtv.m3u8
+#EXTINF:-1 group-title="中國：其他",足球頻道
+http://iptv.tvfix.org/hls/zqhd.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-1綜合
+http://iptv.tvfix.org/hls/cctv1.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-2財經
+http://iptv.tvfix.org/hls/cctv2.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-3綜藝
+http://iptv.tvfix.org/hls/cctv3.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-4中文國際
+http://iptv.tvfix.org/hls/cctv4.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-5體育
+http://iptv.tvfix.org/hls/cctv5.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-6電影
+http://iptv.tvfix.org/hls/cctv6.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-7國防軍事
+http://iptv.tvfix.org/hls/cctv7.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-8電視劇
+http://iptv.tvfix.org/hls/cctv8.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-9紀錄
+http://iptv.tvfix.org/hls/cctv9.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-10科教
+http://iptv.tvfix.org/hls/cctv10.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-11戲曲
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-12社會與法
+http://iptv.tvfix.org/hls/cctv12.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-13新聞
+http://iptv.tvfix.org/hls/cctv13.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-14少兒
+http://iptv.tvfix.org/hls/cctv14.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-15音樂
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CGTN
+http://iptv.tvfix.org/hls/cctv16.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",CCTV-17農業農村
+http://iptv.tvfix.org/hls/cctv17.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",文化精品
+http://iptv.tvfix.org/hls/whjptv.m3u8
+#EXTINF:-1 group-title="中國：中國中央電視台（標清）",老故事
+http://iptv.tvfix.org/hls/lgstv.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京衛視
+http://iptv.tvfix.org/hls/brtv1.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京文藝
+http://iptv.tvfix.org/hls/brtv2.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京科教
+http://iptv.tvfix.org/hls/brtv3.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京影視
+http://iptv.tvfix.org/hls/brtv4.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京財經
+http://iptv.tvfix.org/hls/brtv5.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京生活
+http://iptv.tvfix.org/hls/brtv7.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京青年
+http://iptv.tvfix.org/hls/brtv8.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京新聞
+http://iptv.tvfix.org/hls/brtv9.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京卡酷少兒
+http://iptv.tvfix.org/hls/brtv10.m3u8
+#EXTINF:-1 group-title="中國：北京（標清）",北京冬奧紀實
+http://iptv.tvfix.org/hls/brtv11.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",浙江
+http://iptv.tvfix.org/hls/zjtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",湖南
+http://iptv.tvfix.org/hls/hunantv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",江蘇
+http://iptv.tvfix.org/hls/jstv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",東方
+http://iptv.tvfix.org/hls/dftv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",深圳
+http://iptv.tvfix.org/hls/sztv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",安徽
+http://iptv.tvfix.org/hls/ahtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",河南
+http://iptv.tvfix.org/hls/hntv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",陝西
+http://iptv.tvfix.org/hls/sxtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",吉林
+http://iptv.tvfix.org/hls/jltv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",廣東
+http://iptv.tvfix.org/hls/gdtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",山東
+http://iptv.tvfix.org/hls/sdtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",湖北
+http://iptv.tvfix.org/hls/hbrtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",河北
+http://iptv.tvfix.org/hls/hebrtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",西藏
+http://iptv.tvfix.org/hls/xztv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",內蒙古
+http://iptv.tvfix.org/hls/nmtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",青海
+http://iptv.tvfix.org/hls/qhtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",四川
+http://iptv.tvfix.org/hls/sctv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",天津
+http://iptv.tvfix.org/hls/tjtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",山西
+http://iptv.tvfix.org/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",遼寧
+http://iptv.tvfix.org/hls/lntv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",廈門
+http://iptv.tvfix.org/hls/xmtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",新疆
+http://iptv.tvfix.org/hls/xjtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",黑龍江
+http://iptv.tvfix.org/hls/hljtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",雲南
+http://iptv.tvfix.org/hls/yntv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",江西
+http://iptv.tvfix.org/hls/jxtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",福建東南
+http://iptv.tvfix.org/hls/dntv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",貴州
+http://iptv.tvfix.org/hls/gztv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",寧夏
+http://iptv.tvfix.org/hls/nxtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",甘肅
+http://iptv.tvfix.org/hls/gstv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",重慶
+http://iptv.tvfix.org/hls/cqtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",兵團
+http://iptv.tvfix.org/hls/bttv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",延邊
+http://iptv.tvfix.org/hls/ybrtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",三沙
+http://iptv.tvfix.org/hls/sstv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",海南
+http://iptv.tvfix.org/hls/lytv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",遼寧影視劇
+http://iptv.tvfix.org/hls/lnysjtv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",遼寧體育
+http://iptv.tvfix.org/hls/lntytv.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",中國教育電視台1
+http://iptv.tvfix.org/hls/cetv1.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",中國教育電視台3
+http://iptv.tvfix.org/hls/cetv3.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",中國教育電視台4
+http://iptv.tvfix.org/hls/cetv4.m3u8
+#EXTINF:-1 group-title="中國：衛視（標清）",山東教育電視台
+http://iptv.tvfix.org/hls/sdetv.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣中國之聲
+http://iptv.tvfix.org/hls/cnrzgzsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣經濟之聲
+http://hk.tvfix.xyz/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣音樂之聲
+http://iptv.tvfix.org/hls/cnryyzsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣都市之聲
+http://iptv.tvfix.org/hls/cnrdszsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣文藝之聲
+http://iptv.tvfix.org/hls/cnrwyzsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣娛樂廣播
+http://iptv.tvfix.org/hls/cnrylgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣交通廣播
+http://iptv.tvfix.org/hls/cnrjtgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",央廣香港廣播
+http://iptv.tvfix.org/hls/cnrxgzsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京新聞
+http://iptv.tvfix.org/hls/bjxwgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京故事廣播
+http://iptv.tvfix.org/hls/bjgsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京文藝廣播
+http://iptv.tvfix.org/hls/bjwygb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京城市
+http://iptv.tvfix.org/hls/bjcsgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京體育
+http://iptv.tvfix.org/hls/bjtygb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京交通
+http://iptv.tvfix.org/hls/bjjtgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京音樂
+http://iptv.tvfix.org/hls/bjyygb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京古典音樂
+http://iptv.tvfix.org/hls/bjgdyygb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京外語
+http://iptv.tvfix.org/hls/bjwaiyugb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京教學
+http://iptv.tvfix.org/hls/bjjxgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京長書
+http://iptv.tvfix.org/hls/bjchangshugb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京戲曲
+http://iptv.tvfix.org/hls/bjxqgb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京歡樂時光
+http://iptv.tvfix.org/hls/bjhlsggb.m3u8
+#EXTINF:-1 group-title="中國：廣播",北京懷舊金曲
+http://iptv.tvfix.org/hls/bjhjjqgb.m3u8
