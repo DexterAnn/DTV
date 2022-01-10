@@ -3,8 +3,6 @@
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV1
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV1HK
-http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV2
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="中國：中國中央電視台（高清）",CCTV3
