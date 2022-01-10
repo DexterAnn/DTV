@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="香港：TVB",翡翠台(第1聲道繁體)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 group-title="香港：TVB",翡翠台(第2聲道簡體)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 group-title="香港：TVB",翡翠台海外版(粵語繁體)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="香港：TVB",翡翠台海外版(普通話簡體)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 group-title="香港：TVB",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 group-title="香港：TVB",J2(第2聲道)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 group-title="香港：TVB",無綫新聞台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 group-title="香港：TVB",無綫新聞台(第2聲道)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1 group-title="香港：TVB",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="香港：TVB",明珠台(第2聲道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 group-title="香港：TVB",無綫財經資訊台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 group-title="香港：TVB",無綫財經資訊台(第2聲道)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 group-title="香港：TVB",無綫財經資訊台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB經典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB為食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB為食台(第2聲道)
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB星河(粵語)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB星河(普通話)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB功夫台(粵語)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 group-title="香港：TVB",TVB功夫(普通話)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 group-title="香港：其他",ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 group-title="香港：其他",ViuTV(第2聲道)
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1 group-title="香港：其他",ViuTV6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 group-title="香港：其他",RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 group-title="香港：其他",RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 group-title="香港：其他",香港國際財經台
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 group-title="香港：其他",香港開電視
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 group-title="香港：其他",鳳凰資訊
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 group-title="香港：其他",鳳凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 group-title="香港：其他",鳳凰電影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 group-title="香港：其他",美亞電影台(粵語)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 group-title="香港：其他",美亞電影台(普通話)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 group-title="香港：其他",天映經典(粵語)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 group-title="香港：其他",天映經典(普通話)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
