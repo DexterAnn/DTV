@@ -7,34 +7,24 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 group-title="電視廣播",81-翡翠台海外版（普通話，簡體）
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 group-title="電視廣播",81-翡翠台（備選）
-https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="電視廣播",82-J2
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 group-title="電視廣播",82-J2（第2聲道）
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 group-title="電視廣播",82-J2（備選）
-https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 group-title="電視廣播",83-無綫新聞台
 http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 group-title="電視廣播",83-無綫新聞台（第2聲道）
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 group-title="電視廣播",83-無綫新聞台（備選）
-https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 group-title="電視廣播",84-Pearl
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 group-title="電視廣播",84-Pearl（第2聲道）
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 group-title="電視廣播",84-Pearl（備選）
-https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 group-title="電視廣播",85-無綫財經資訊台
 http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 group-title="電視廣播",85-無綫財經資訊台（第2聲道）
 http://iptv.tvfix.org/hls/finance2.m3u8
 #EXTINF:-1 group-title="電視廣播",85-無綫財經資訊台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 group-title="電視廣播",85-無綫財經資訊台（備選）
-https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 group-title="電視廣播",TVB經典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 group-title="電視廣播",TVB為食台
@@ -49,18 +39,14 @@ http://iptv.tvfix.org/hls/tvbxh2.m3u8
 http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 group-title="電視廣播",TVB功夫（普通話）
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 group-title="香港電台",31-RTHK31-1
+#EXTINF:-1 group-title="香港電台",31-RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 group-title="香港電台",31-RTHK31-2
+#EXTINF:-1 group-title="香港電台",31-RTHK31（備選）
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="香港電台",31-RTHK31-3
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 group-title="香港電台",32-RTHK32-1
+#EXTINF:-1 group-title="香港電台",32-RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 group-title="香港電台",32-RTHK32-2
+#EXTINF:-1 group-title="香港電台",32-RTHK32（備選）
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="香港電台",32-RTHK32-3
-https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 group-title="香港電台",33-RTHK33(CCTV1HK)
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 group-title="香港電視娛樂",99-ViuTV
