@@ -159,44 +159,6 @@ http://iptv.tvfix.org/hls/ymkttv.m3u8
 http://iptv.tvfix.org/hls/xdmtv.m3u8
 #EXTINF:-1 group-title="其他",足球頻道
 http://iptv.tvfix.org/hls/zqhd.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-1綜合
-http://iptv.tvfix.org/hls/cctv1.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-2財經
-http://iptv.tvfix.org/hls/cctv2.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-3綜藝
-http://iptv.tvfix.org/hls/cctv3.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-4中文國際
-http://iptv.tvfix.org/hls/cctv4.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-5體育
-http://iptv.tvfix.org/hls/cctv5.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-6電影
-http://iptv.tvfix.org/hls/cctv6.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-7國防軍事
-http://iptv.tvfix.org/hls/cctv7.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-8電視劇
-http://iptv.tvfix.org/hls/cctv8.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-9紀錄
-http://iptv.tvfix.org/hls/cctv9.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-10科教
-http://iptv.tvfix.org/hls/cctv10.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-11戲曲
-http://iptv.tvfix.org/hls/cctv11.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-12社會與法
-http://iptv.tvfix.org/hls/cctv12.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-13新聞
-http://iptv.tvfix.org/hls/cctv13.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-14少兒
-http://iptv.tvfix.org/hls/cctv14.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-15音樂
-http://iptv.tvfix.org/hls/cctv15.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CGTN
-http://iptv.tvfix.org/hls/cctv16.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",CCTV-17農業農村
-http://iptv.tvfix.org/hls/cctv17.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",文化精品
-http://iptv.tvfix.org/hls/whjptv.m3u8
-#EXTINF:-1 group-title="中國中央電視台（標清）",老故事
-http://iptv.tvfix.org/hls/lgstv.m3u8
 #EXTINF:-1 group-title="北京（標清）",北京衛視
 http://iptv.tvfix.org/hls/brtv1.m3u8
 #EXTINF:-1 group-title="北京（標清）",北京文藝
