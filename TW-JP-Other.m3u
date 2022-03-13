@@ -63,6 +63,10 @@ http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 http://iptv.tvfix.org/hls/nhkworld.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHKWORLD(中文字幕)
 http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+#EXTINF:-1 group-title="其他",BBC News
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 group-title="其他",CNN
+http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 group-title="其他",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1 group-title="其他",瞬間看地球
