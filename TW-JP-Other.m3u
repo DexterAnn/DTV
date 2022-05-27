@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="台灣",TVBS亞洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
+https://tvfix.woodong.workers.dev/hls/tvbs.m3u8
 #EXTINF:-1 group-title="台灣",TVBS新聞台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
+https://tvfix.woodong.workers.dev/hls/tvbsnews.m3u8
 #EXTINF:-1 group-title="台灣",中天新聞
-http://iptv.tvfix.org/hls/ztxw.m3u8
+https://tvfix.woodong.workers.dev/hls/ztxw.m3u8
 #EXTINF:-1 group-title="台灣",東森新聞
-http://iptv.tvfix.org/hls/dsxw.m3u8
+https://tvfix.woodong.workers.dev/hls/dsxw.m3u8
 #EXTINF:-1 group-title="台灣",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 group-title="台灣",民視台灣台
@@ -50,54 +50,54 @@ http://live.streamingfast.net/osmflivech13.m3u8
 #EXTINF:-1 group-title="台灣",好消息GOODTV美食旅遊
 http://live.streamingfast.net/osmflivech14.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHK綜合
-http://iptv.tvfix.org/hls/nhkg.m3u8
+https://tvfix.woodong.workers.dev/hls/nhkg.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHK綜合(第2聲道)
-http://iptv.tvfix.org/hls/nhkg2.m3u8
+https://tvfix.woodong.workers.dev/hls/nhkg2.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHK教育
-http://iptv.tvfix.org/hls/nhke.m3u8
+https://tvfix.woodong.workers.dev/hls/nhke.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHK教育(第2聲道)
-http://iptv.tvfix.org/hls/nhke2.m3u8
+https://tvfix.woodong.workers.dev/hls/nhke2.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHKWORLDPremium
-http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+https://tvfix.woodong.workers.dev/hls/nhkworldpremium.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHKWORLD
-http://iptv.tvfix.org/hls/nhkworld.m3u8
+https://tvfix.woodong.workers.dev/hls/nhkworld.m3u8
 #EXTINF:-1 group-title="日本：NHK",NHKWORLD(中文字幕)
-http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+https://tvfix.woodong.workers.dev/hls/nhkworldzh.m3u8
 #EXTINF:-1 group-title="其他",BBC News
-http://iptv.tvfix.org/hls/bbcnews.m3u8
+https://tvfix.woodong.workers.dev/hls/bbcnews.m3u8
 #EXTINF:-1 group-title="其他",CNN
-http://iptv.tvfix.org/hls/cnn.m3u8
+https://tvfix.woodong.workers.dev/hls/cnn.m3u8
 #EXTINF:-1 group-title="其他",tvN
-http://iptv.tvfix.org/hls/tvn.m3u8
+https://tvfix.woodong.workers.dev/hls/tvn.m3u8
 #EXTINF:-1 group-title="其他",瞬間看地球
-http://iptv.tvfix.org/hls/earth.m3u8
+https://tvfix.woodong.workers.dev/hls/earth.m3u8
 #EXTINF:-1 group-title="其他",Animax
-http://iptv.tvfix.org/hls/animax.m3u8
+https://tvfix.woodong.workers.dev/hls/animax.m3u8
 #EXTINF:-1 group-title="其他",Animax(第2聲道)
-http://iptv.tvfix.org/hls/animax2.m3u8
+https://tvfix.woodong.workers.dev/hls/animax2.m3u8
 #EXTINF:-1 group-title="其他",HandsUpChannel
-http://iptv.tvfix.org/hls/kid.m3u8
+https://tvfix.woodong.workers.dev/hls/kid.m3u8
 #EXTINF:-1 group-title="其他",HandsUpChannel(第2聲道)
-http://iptv.tvfix.org/hls/kid2.m3u8
+https://tvfix.woodong.workers.dev/hls/kid2.m3u8
 #EXTINF:-1 group-title="其他",Thrill
-http://iptv.tvfix.org/hls/thrill.m3u8
+https://tvfix.woodong.workers.dev/hls/thrill.m3u8
 #EXTINF:-1 group-title="其他",Thrill(第2聲道)
-http://iptv.tvfix.org/hls/thrill2.m3u8
+https://tvfix.woodong.workers.dev/hls/thrill2.m3u8
 #EXTINF:-1 group-title="其他",Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
+https://tvfix.woodong.workers.dev/hls/discovery.m3u8
 #EXTINF:-1 group-title="其他",動物星球
-http://iptv.tvfix.org/hls/animal.m3u8
+https://tvfix.woodong.workers.dev/hls/animal.m3u8
 #EXTINF:-1 group-title="其他",動物星球(第2聲道)
-http://iptv.tvfix.org/hls/animal2.m3u8
+https://tvfix.woodong.workers.dev/hls/animal2.m3u8
 #EXTINF:-1 group-title="其他",LoveNature4K
-http://iptv.tvfix.org/hls/lovenature4k.m3u8
+https://tvfix.woodong.workers.dev/hls/lovenature4k.m3u8
 #EXTINF:-1 group-title="其他",LoveNature4K(第2聲道)
-http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+https://tvfix.woodong.workers.dev/hls/lovenature4k2.m3u8
 #EXTINF:-1 group-title="其他",國家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
+https://tvfix.woodong.workers.dev/hls/natlgeo.m3u8
 #EXTINF:-1 group-title="其他",ChannelV
-http://iptv.tvfix.org/hls/channelv.m3u8
+https://tvfix.woodong.workers.dev/hls/channelv.m3u8
 #EXTINF:-1 group-title="其他",星空衛視
-http://iptv.tvfix.org/hls/startv.m3u8
+https://tvfix.woodong.workers.dev/hls/startv.m3u8
 #EXTINF:-1 group-title="其他",StarSports
-http://iptv.tvfix.org/hls/starsports.m3u8
+https://tvfix.woodong.workers.dev/hls/starsports.m3u8
