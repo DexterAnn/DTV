@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="英國",BBC
+https://tvfix.woodong.workers.dev/hls/bbcnews.m3u8
+#EXTINF:-1 group-title="美國",CNN
+https://tvfix.woodong.workers.dev/hls/cnn.m3u8
+#EXTINF:-1 group-title="香港特別行政區",無綫新聞台
+https://tvfix.woodong.workers.dev/hls/inews.m3u8
+#EXTINF:-1 group-title="香港特別行政區",娛樂新聞台
+https://tvfix.woodong.workers.dev/hls/enews.m3u8
+#EXTINF:-1 group-title="香港特別行政區",鳳凰中文台
+https://tvfix.woodong.workers.dev/hls/fhzw.m3u8
+#EXTINF:-1 group-title="香港特別行政區",鳳凰資訊台
+https://tvfix.woodong.workers.dev/hls/fhzx.m3u8
+#EXTINF:-1 group-title="中華人民共和國",CCTV-13高清
+https://tvfix.woodong.workers.dev/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="俄羅斯",今日俄羅斯電視台
+https://tvfix.woodong.workers.dev/hls/rt.m3u8
